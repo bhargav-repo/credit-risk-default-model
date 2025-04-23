@@ -33,3 +33,19 @@ To classify Indian companies based on whether they are likely to default on loan
 - Compared against Random Forest for benchmarking
 
 ## 📁 Project Structure
+/notebooks      → Jupyter Notebook with full workflow
+/scripts        → Custom helper scripts (if applicable)
+/data           → Input data (if allowed)
+/assets         → Visuals like confusion matrices
+
+## 📌 Outcomes
+- Built a production-style modeling pipeline for credit default classification
+- Learned to balance accuracy vs. sensitivity in imbalanced datasets
+- Understood the limitations and interpretability tradeoffs between models
+
+---
+
+**Author:** Bhargav Reddy Munnangi  
+*Post Graduate Program, UT Austin (Jan '22 Cohort)*  
+📬 bhargavreddy.m18@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/mbhargavreddy)
